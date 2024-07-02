@@ -1,5 +1,6 @@
 
-use linked_list::LinkedList;
+
+use simple_linked_list::LinkedList;
 
 #[derive(Debug,PartialEq)]
 pub struct User{
