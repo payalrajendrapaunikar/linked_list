@@ -5,7 +5,6 @@ edition = "2021"
 
 description = "A singly linked list made using smart pointer"
 repository = "https://github.com/payalrajendrapaunikar/linked_list.git"
-categories = ["linked-list","linked-list-rust"]
 license = "MIT"
 
 [dependencies]
